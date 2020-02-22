@@ -1,4 +1,3 @@
-----
 # Welcome to GLX!
 
 GLX is a decentralized supercomputer based on cryptography and blockchain technology.
@@ -56,29 +55,3 @@ cd GLX
 
 ***wait for the JavaFX wallet window to open***
 ***on platforms without JavaFX, open http://localhost:16876/ in a browser***
-
-
-----
-## Run XEL Computation Wallet from docker installer (***recommended for servers***)
-
-https://github.com/xel-software/xel-installer-docker
-
-----
-## Improve it
-
-  - we love **pull requests**
-  - we love issues (resolved ones actually ;-) )
-  - in any case, make sure you leave **your ideas**
-  - assist others on the issue tracker
-  - **review** existing code and pull requests
-
-----
-## Troubleshooting (XEL Reference Software)
-
-  - UI Errors or Stacktraces?
-    - report on github
-
-----
-## Further Reading
-
-  - on discord : https://link.xel.org/discord
